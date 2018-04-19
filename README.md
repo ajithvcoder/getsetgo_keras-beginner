@@ -1,14 +1,14 @@
-##Using pretrained Convolutional Neural Network models(CNN) in keras
+## Using pretrained Convolutional Neural Network models(CNN) in keras
 
-###credits _/\_
- > https://mlblr.com/
- > https://keras.io/
- > https://colab.research.google.com/
+### credits _/\\_
+ > -https://mlblr.com/
+ > -https://keras.io/
+ > -https://colab.research.google.com/
 
 codes used here are executed and tested only in colab.research.google.com 
 please make sure you have enabled GPU access from notebook settings for faster execution process
 
-###CNN models
+### CNN models
 Models used here are pretrained on ImageNet dataset  ImageNet Large Scale Visual Recognition Challenge (ILSVRC) with python and keras deep learning library.
 
 1.Resnet50 model 
@@ -37,7 +37,7 @@ Instead of training from scrath/starting with random weight initialiation pre-tr
 models can be used with other datasets.
 [keywords: fine tuning-transfer learning]
 
-###Model info:
+### Model info:
 
 Resnet50 model
 Architecture speciality:Use of residual blocks(skip connections) enabled training much deeper 
