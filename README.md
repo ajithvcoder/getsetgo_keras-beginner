@@ -1,6 +1,6 @@
 ## Using pretrained Convolutional Neural Network models(CNN) in Keras
 
-### Credits \_/\\\_
+### Credits 
  > -https://mlblr.com/  <br/>
  > -https://keras.io/ <br/>
  > -https://colab.research.google.com/ <br/>
